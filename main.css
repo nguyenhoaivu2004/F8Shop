@@ -1,0 +1,33 @@
+#fisrt-heading {
+    color : red;
+    font-size: 30px ;
+}
+.second-heading{
+    color: green;
+    font-size: 20px;
+}
+
+.thirt-heading{
+    color:blue;
+    font-size: 60px;
+
+}
+.new-heading{
+    color:black;
+    font-size: 30px;
+
+}
+.last-heading{
+    color:black;
+    font-size: 20px;
+
+}
+.for-heading{
+    color:aliceblue;
+    font-size: 18px;
+
+}
+.tow-heading{
+    color: black;
+    font-size: 20px;
+}
